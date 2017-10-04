@@ -1,0 +1,22 @@
+{
+  "name": "hello-mars-new",
+  "version": "1.0.0",
+  "description": "say hello to my first npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghottamK/hello-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Raghottam Kulkarni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaghottamK/hello-mars/issues"
+  },
+  "homepage": "https://github.com/RaghottamK/hello-mars#readme"
+}
